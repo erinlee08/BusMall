@@ -1,3 +1,7 @@
+#user-story 8-31
+as a dev-besides making sure codes run well, stats should be easy to see and understand.
+as a user-wants info to be autopopulated so there is not need to entered info again. 
+
 # user story-8-31
 as a dev-concern would be having the right code just so everything works it's supposed to. no redundancy.
 
